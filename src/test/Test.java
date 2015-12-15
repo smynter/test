@@ -16,6 +16,9 @@ public class Test {
      */
     public static void main(String[] args) {
         System.out.println("Codigo de prueba para git 2");
+            System.out.println("Codigo de prueba para git 2");
+                System.out.println("Codigo de prueba para git 2");
+                    System.out.println("Codigo de prueba para git 2");
     }
     
 }
