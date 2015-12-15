@@ -15,7 +15,7 @@ public class Test {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Codigo de prueba para git 1");
+        System.out.println("Codigo de prueba para git 2");
     }
     
 }
